@@ -1,0 +1,14 @@
+artifact_uri: /home/jonthan/Documentos/rimac/spark/pyspark/pyspark_mlflow/flow_pyspark/mlruns/0/72bfd7a9d5e548539ac90bf2e1f27bf9/artifacts
+end_time: 1538777151957
+entry_point_name: main
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 72bfd7a9d5e548539ac90bf2e1f27bf9
+source_name: file:///home/jonthan/Documentos/rimac/spark#pyspark/pyspark_mlflow/flow_pyspark/sklearn_elasticnet_wine
+source_type: 3
+source_version: 93889d50ea5ef48fbefcd3962fa456b80a9503dd
+start_time: 1538776604025
+status: 3
+tags: []
+user_id: jonthan
