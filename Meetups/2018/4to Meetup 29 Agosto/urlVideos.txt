@@ -1,0 +1,8 @@
+Dennys - Análisis de Series Temporales usando Machine Learning
+https://www.facebook.com/DataScienceResearch/videos/322787118472241/
+
+Jose Sosa - Speech Analytics
+https://www.facebook.com/DataScienceResearch/videos/260484217917910/
+
+Esteban Vilca - Árboles de Decisión
+https://www.facebook.com/DataScienceResearch/videos/663633410684318/

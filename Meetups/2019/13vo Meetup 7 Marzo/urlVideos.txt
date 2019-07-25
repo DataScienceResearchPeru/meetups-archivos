@@ -1,0 +1,5 @@
+Isaias Culqui - Buenas prácticas de Construcción y validación de Modelos Predictivos
+https://www.facebook.com/DataScienceResearch/videos/788046538242065/
+
+Clasificación de Texto Guia para el desarrollo de modelos de clasificación con data real
+https://www.facebook.com/DataScienceResearch/videos/383408872239648/

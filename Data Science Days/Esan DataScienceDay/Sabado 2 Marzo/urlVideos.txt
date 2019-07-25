@@ -1,0 +1,32 @@
+Manuel Montoya - Sistema de Recomendación con Python
+https://www.facebook.com/DataScienceResearch/videos/1986466131656664/
+
+Carlos Huisa - Ensamble de Modelos Machine Learning en Producción
+https://www.facebook.com/DataScienceResearch/videos/1960194370774775/
+
+Competencias de Data Science
+https://www.facebook.com/DataScienceResearch/videos/2277319889207372/
+
+Data Science con Python - Aldo Lezama
+https://www.facebook.com/DataScienceResearch/videos/2208330442749478/
+
+IBM Python for Data Science - Manuel Alcantara
+https://www.facebook.com/DataScienceResearch/videos/2518604841546545/
+
+Rodolfo Zevallos - Introducción a Redes Neuronales
+https://www.facebook.com/DataScienceResearch/videos/1077462745788673/
+
+Kahoot - Consurso
+https://www.facebook.com/DataScienceResearch/videos/2066382426776828/
+
+Fuzzy Clustering - Luis Mantilla
+https://www.facebook.com/DataScienceResearch/videos/1165271413642442/
+
+Ernesto Landa - Ciberseguridad aplicado a Machine Learning
+https://www.facebook.com/DataScienceResearch/videos/2129830637097665/
+
+Kaggle Days y muchos más meetups
+https://www.facebook.com/DataScienceResearch/videos/587939241722979/
+
+Data Science Day en la Esan
+https://www.facebook.com/DataScienceResearch/videos/980939372097356/
