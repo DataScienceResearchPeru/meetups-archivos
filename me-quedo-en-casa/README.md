@@ -136,6 +136,7 @@
 
 *	[Love Death and Robots](https://www.justwatch.com/es/serie/love-death-y-robots)
 
+*	[The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 
 ## Créditos:  
 * [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
