@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5902c340-e58d-419a-8a48-e94029221fab" name="Default Changelist" comment="" />
+    <list default="true" id="5902c340-e58d-419a-8a48-e94029221fab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="305">
-                <caret line="72" column="71" lean-forward="true" selection-start-line="72" selection-start-column="71" selection-end-line="72" selection-end-column="71" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="140" selection-start-line="2" selection-start-column="140" selection-end-line="2" selection-end-column="140" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -91,6 +93,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -123,23 +126,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584236781990</updated>
-      <workItem from="1584236783936" duration="2460000" />
+      <workItem from="1584236783936" duration="2607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2460000" />
+    <option name="totallyTimeSpent" value="2607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10923185" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10923185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -160,8 +163,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="305">
-            <caret line="72" column="71" lean-forward="true" selection-start-line="72" selection-start-column="71" selection-end-line="72" selection-end-column="71" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="140" selection-start-line="2" selection-start-column="140" selection-end-line="2" selection-end-column="140" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

@@ -1,6 +1,6 @@
 # Recursos de Inteligencia Artificial
 
-![DSRP Me quedo en casa](/images/YoMeQuedoEnCasa.png)
+![DSRP Me quedo en casa](https://github.com/DataScienceResearchPeru/meetups-archivos/blob/master/me-quedo-en-casa/images/YoMeQuedoEnCasa.png)
 
 ### Lecturas online
 
