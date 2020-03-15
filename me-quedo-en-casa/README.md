@@ -106,6 +106,12 @@
 
 *	[Software 2.0](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm)
 
+*	[Captcha Xataka](https://open.spotify.com/show/1XED6SjXfQvPG6sQmzx6zf)
+
+*	[Data Coffee](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtZGF0YS1jb2ZmZWUtaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwtZG90Y3N2X2ZnX2YxNDk3MTIyX2ZpbHRyb18xLnhtbA&ved=0CAQQrrcFahcKEwiYp9znsJ3oAhUAAAAAHQAAAAAQBg)
+
+*	[Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
+
 ### Series de temática tecnológica.
 
 *	[Cosmos Possible Worlds](https://www.justwatch.com/es/serie/cosmos)
