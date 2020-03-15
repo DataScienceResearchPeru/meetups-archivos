@@ -72,6 +72,12 @@
 
 *	[NotCSV](https://www.youtube.com/channel/UCOTko-zmnQTcOxSRdg5_uOQ/)
 	
+*	[freeCodeCamp Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
+
+*	[Descubriendo la Inteligencia Artificial](https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ)
+	
+*	[AMP Tech](https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ)
+
 ### Libros
 
 *	[Medio - Libro de FastAI: Deep Learning for Coders with fastai and PyTorch](https://github.com/fastai/fastbook)
