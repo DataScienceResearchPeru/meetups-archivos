@@ -14,6 +14,14 @@
 
 *	[Paper con código](https://paperswithcode.com/)
 
+*	[Aprende Machine Learning](https://www.aprendemachinelearning.com/)
+
+*	[Machine Learning en freeCodeCamp](https://www.freecodecamp.org/news/tag/machine-learning/)
+
+*	[Towards Data Science](https://towardsdatascience.com/)
+
+*	[MIT Technology Review - Machine Learning](https://www.technologyreview.es/c/inteligencia-artificial)
+
 ### Cursos y MOOCs
 
 *	[Básico - Elements of AI: Curso introductorio de conceptos de Machine Learning.](https://www.elementsofai.com/)
