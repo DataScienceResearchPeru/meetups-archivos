@@ -14,6 +14,14 @@
 
 *	[Paper con código](https://paperswithcode.com/)
 
+*	[Aprende Machine Learning](https://www.aprendemachinelearning.com/)
+
+*	[Machine Learning en freeCodeCamp](https://www.freecodecamp.org/news/tag/machine-learning/)
+
+*	[Towards Data Science](https://towardsdatascience.com/)
+
+*	[MIT Technology Review - Machine Learning](https://www.technologyreview.es/c/inteligencia-artificial)
+
 ### Cursos y MOOCs
 
 *	[Básico - Elements of AI: Curso introductorio de conceptos de Machine Learning.](https://www.elementsofai.com/)
@@ -72,6 +80,12 @@
 
 *	[NotCSV](https://www.youtube.com/channel/UCOTko-zmnQTcOxSRdg5_uOQ/)
 	
+*	[freeCodeCamp Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
+
+*	[Descubriendo la Inteligencia Artificial](https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ)
+	
+*	[AMP Tech](https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ)
+
 ### Libros
 
 *	[Medio - Libro de FastAI: Deep Learning for Coders with fastai and PyTorch](https://github.com/fastai/fastbook)
@@ -100,6 +114,12 @@
 
 *	[Software 2.0](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm)
 
+*	[Captcha Xataka](https://open.spotify.com/show/1XED6SjXfQvPG6sQmzx6zf)
+
+*	[Data Coffee](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtZGF0YS1jb2ZmZWUtaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwtZG90Y3N2X2ZnX2YxNDk3MTIyX2ZpbHRyb18xLnhtbA&ved=0CAQQrrcFahcKEwiYp9znsJ3oAhUAAAAAHQAAAAAQBg)
+
+*	[Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
+
 ### Series de temática tecnológica.
 
 *	[Cosmos Possible Worlds](https://www.justwatch.com/es/serie/cosmos)
@@ -116,6 +136,7 @@
 
 *	[Love Death and Robots](https://www.justwatch.com/es/serie/love-death-y-robots)
 
+*	[The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 
 ## Créditos:  
 * [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
